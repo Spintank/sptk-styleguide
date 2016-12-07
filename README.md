@@ -64,7 +64,7 @@ That's it!
 - Avoid duplicate content. If you duplicate text for graphics effects, add aria-hidden attributes, or use pseudo-elements.
 - The css class and the mixin "hide-for-viewer" hide the content for users, but not for SEO robots.
 - Use <button> instead of <span> if you need an interactive element.
-- 
+
 ## Links
 - Codepen
 - GIT styleguide
@@ -72,4 +72,6 @@ That's it!
 - CSS/SCSS styleguide
 - JS styleguide
 - PHP styleguide
+- Basic starterkit
+- WP starterkit
 
