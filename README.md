@@ -3,13 +3,13 @@
 
 ## Table of contents
 - [Syntax](#syntax)
-- Workflow
-- Self-organization
-- Starting a new project
-- Before release
-- Accessibility
-- Browsers support
-- Links
+- [Workflow](#Workflow)
+- [Self-organization](#self-organization)
+- [Starting a new project](#starting-a-new-project)
+- [Before release](#before-release)
+- [Accessibility](#accessibility)
+- [Browsers support](#browsers-support)
+- [Links](#links)
 
 ## Syntax
 - All in english
