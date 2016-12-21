@@ -4,7 +4,6 @@
 ## Table of contents
 - [Syntax](#syntax)
 - [Workflow](#Workflow)
-- [Self-organization](#self-organization)
 - [Starting a new project](#starting-a-new-project)
 - [Before release](#before-release)
 - [Accessibility](#accessibility)
@@ -32,9 +31,6 @@
 - Install MAMP Pro (the version 3, not the 4). Ask for the serial number.
 - Create a "Sites" folder on your personal folder. It contains all your sites.
 - We have a file with ftp and php accesses. Just ask!
-
-## Self-organization
-Pense toujours à trier/réorganiser tes dossiers, tes fichiers, ton code. Ne laisse rien trainer sur le bureau. Toujours pusher sur Git en partant de l'agence.
 
 ## Starting a new project
 - Create a GIT repo (see GIT syntax)
