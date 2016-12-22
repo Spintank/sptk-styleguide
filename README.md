@@ -14,11 +14,7 @@
 - All in english
 - Filenames and foldernames all in lowercases, no spaces, no accents.
 - Think about comments, everyone could understand your code
-- See GIT styleguide
-- See HTML styleguide
-- See CSS/SCSS styleguide
-- See JS styleguide
-- See PHP styleguide
+- [See styleguides](#links)
 
 ## Workflow
 - Use the IDE you prefer, we already use Atom and PhpStorm. The minimum is to add emmett and autocomplete plugins.
@@ -66,7 +62,7 @@ That's it!
 - CSS/SCSS styleguide
 - JS styleguide
 - PHP styleguide
-- Basic starterkit
-- Pug starterkit
-- MJML starterkit (email)
+- [Basic starterkit](https://github.com/Spintank/sptk-starterkit-basic)
+- [Pug starterkit](https://github.com/Spintank/sptk-starterkit-pug)
+- [MJML starterkit (email)](https://github.com/Spintank/sptk-starterkit-pug)
 - WP starterkit
