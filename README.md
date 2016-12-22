@@ -34,9 +34,7 @@
 
 ## Starting a new project
 - Create a GIT repo (see GIT syntax)
-- Clone the starterkit repo adequate in your sites folder :
--- Raw html starterkit
--- Wordpress starterkit
+- Clone the starterkit repo adequate in your sites folder
 - Rename the starterkit folder and delete the .git file
 
 ```bash
@@ -69,5 +67,6 @@ That's it!
 - JS styleguide
 - PHP styleguide
 - Basic starterkit
+- Pug starterkit
+- MJML starterkit (email)
 - WP starterkit
-
