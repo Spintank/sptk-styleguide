@@ -96,12 +96,9 @@ That's it!
 
 ## Links
 - [GIT styleguide](styleguide-git.md)
-- HTML styleguide
 - [CSS styleguide](styleguide-css.md)
 - [Javascript styleguide](styleguide-javascript.md)
-- PHP styleguide
 - [Basic starterkit](https://github.com/Spintank/sptk-starterkit-basic)
 - [Pug starterkit](https://github.com/Spintank/sptk-starterkit-pug)
 - [MJML starterkit (email)](https://github.com/Spintank/sptk-starterkit-pug)
-- WP starterkit
 - [Codepen](http://codepen.io/spintank/)
