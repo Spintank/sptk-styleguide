@@ -95,10 +95,10 @@ That's it!
 - Use <button> instead of <span> if you need an interactive element.
 
 ## Links
-- [GIT styleguide](https://github.com/Spintank/sptk-styleguide-git)
+- [GIT styleguide](styleguide-git.md)
 - HTML styleguide
-- [CSS styleguide](https://github.com/Spintank/sptk-styleguide-css)
-- [Javascript styleguide](https://github.com/Spintank/sptk-styleguide-css)
+- [CSS styleguide](styleguide-css.md)
+- [Javascript styleguide](styleguide-javascript.md)
 - PHP styleguide
 - [Basic starterkit](https://github.com/Spintank/sptk-starterkit-basic)
 - [Pug starterkit](https://github.com/Spintank/sptk-starterkit-pug)
