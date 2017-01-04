@@ -60,7 +60,7 @@ Use the IDE you prefer, we already use [Atom](https://atom.io/) and [PhpStorm](h
     ```bash
     sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
     ```
-    
+
 ### Others
 - All our projet are hosted on [GIT](https://github.com/Spintank).
 - Designers uses **Sketch**, **Photoshop**, **Illustrator**. If you want, create a [zeplin](https://zeplin.io/) projet with the designer.
@@ -95,13 +95,13 @@ That's it!
 - Use <button> instead of <span> if you need an interactive element.
 
 ## Links
-- [Codepen](http://codepen.io/spintank/)
 - [GIT styleguide](https://github.com/Spintank/sptk-styleguide-git)
 - HTML styleguide
 - [CSS styleguide](https://github.com/Spintank/sptk-styleguide-css)
-- JS styleguide
+- [Javascript styleguide](https://github.com/Spintank/sptk-styleguide-css)
 - PHP styleguide
 - [Basic starterkit](https://github.com/Spintank/sptk-starterkit-basic)
 - [Pug starterkit](https://github.com/Spintank/sptk-starterkit-pug)
 - [MJML starterkit (email)](https://github.com/Spintank/sptk-starterkit-pug)
 - WP starterkit
+- [Codepen](http://codepen.io/spintank/)
