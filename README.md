@@ -101,7 +101,5 @@ That's it!
 - [CSS styleguide](https://github.com/Spintank/sptk-styleguide-css)
 - JS styleguide
 - PHP styleguide
-- [Basic starterkit](https://github.com/Spintank/sptk-starterkit-basic)
-- [Pug starterkit](https://github.com/Spintank/sptk-starterkit-pug)
-- [MJML starterkit (email)](https://github.com/Spintank/sptk-starterkit-pug)
+- [Clasic starterkit](https://github.com/Spintank/sptk-starterkit)
 - WP starterkit
